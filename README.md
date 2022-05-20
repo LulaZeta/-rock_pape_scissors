@@ -1,6 +1,6 @@
-# rock_pape_scissors
+# rock_paper_scissors
 
-Aplicación creada con JavaScript, HTML y CSS para crear el juevo Piedra, Papel o Tijera...
+Aplicación creada con JavaScript, HTML y CSS para crear el juego Piedra, Papel o Tijera...
 
 # Queres jugar? deploy en: 
 https://rock-pape-scissors.vercel.app/
