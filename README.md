@@ -9,3 +9,8 @@ https://rock-pape-scissors.vercel.app/
   <img src="./piedra-papel-tijera.jpg" width=550 >
 </p>
 
+## Conceptos claves:
+addEventListener()
+Math.floor()
+Math.random()
+sentencias switch
